@@ -2,7 +2,7 @@ export 'package:widgets_app/config/presentation/screens/app_turtorial/app_tutori
 export 'package:widgets_app/config/presentation/screens/infinite_scroll/infine_scroll_screen.dart';
 export 'package:widgets_app/config/presentation/screens/progress/progress_screen.dart';
 export 'package:widgets_app/config/presentation/screens/snackbar/snackbar_screen.dart';
-export 'package:widgets_app/config/presentation/screens/uiu_controls/ui_controls_screen.dart';
+export 'package:widgets_app/config/presentation/screens/ui_controls/ui_controls_screen.dart';
 export 'package:widgets_app/config/presentation/screens/animated/animated_screens.dart';
 export 'package:widgets_app/config/presentation/screens/buttons/buttons_screen.dart';
 export 'package:widgets_app/config/presentation/screens/cards/cards_screen.dart';
