@@ -1,3 +1,5 @@
+export 'package:widgets_app/config/presentation/screens/theme_changer/theme_changer_screen.dart';
+export 'package:widgets_app/config/presentation/screens/counter/counter_screen.dart';
 export 'package:widgets_app/config/presentation/screens/app_turtorial/app_tutorial_screen.dart';
 export 'package:widgets_app/config/presentation/screens/infinite_scroll/infine_scroll_screen.dart';
 export 'package:widgets_app/config/presentation/screens/progress/progress_screen.dart';
